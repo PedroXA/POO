@@ -1,3 +1,2 @@
 # POO - Programação Orientada a Objeto
-
-## Projetos feitos em sala 
+ Projetos feitos em sala 
