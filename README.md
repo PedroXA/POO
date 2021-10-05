@@ -1,2 +1,2 @@
 # POO - Programação Orientada a Objeto
- Projetos feitos em sala 
+ Projetos em C# feitos em sala 
